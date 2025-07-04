@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/middleware.ts","./src/streamhandler.ts","./src/routes/authrouter.ts","./src/routes/folderroutes.ts","./src/routes/pdfrouter.ts","./src/lib/db.ts","./src/lib/qdrant.ts","./src/lib/queue.ts","./src/lib/storage.ts"],"version":"5.8.3"}
