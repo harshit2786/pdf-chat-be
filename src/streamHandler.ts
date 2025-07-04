@@ -71,7 +71,7 @@ export const handleWebsocket = async (
         Answer the question based only on the following context:
         ${input.context}
         
-        Question: ${input.question}
+        Question with chat history: ${input.question}
       `,
       llm,
       new StringOutputParser(),
